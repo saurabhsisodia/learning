@@ -1,2 +1,0 @@
-# learning
-just learning basics
